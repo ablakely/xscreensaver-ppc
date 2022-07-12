@@ -5,6 +5,6 @@ all:
 
 install:
 	@mkdir -p $(SCREENSAVERPATH)
-	@cp screensavers/*.saver $(SCREENSAVERPATH)
+	@cp -a screensavers/*.saver $(SCREENSAVERPATH)
 
 
