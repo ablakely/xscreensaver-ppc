@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>10J869</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>JigglyPuff</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.jwz.xscreensaver.JigglyPuff</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>JigglyPuff</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.14</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>5.14</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>10M2518</string>
+	<key>DTPlatformVersion</key>
+	<string>PG</string>
+	<key>DTSDKBuild</key>
+	<string>8S2167</string>
+	<key>DTSDKName</key>
+	<string>macosx10.4</string>
+	<key>DTXcode</key>
+	<string>0400</string>
+	<key>DTXcodeBuild</key>
+	<string>10M2518</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.4</string>
+	<key>NSMainNibFile</key>
+	<string>SaverTester</string>
+	<key>NSPrincipalClass</key>
+	<string>XScreenSaverJigglyPuffView</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>JigglyPuff 5.14, © 2011 Keith Macleod and Jamie Zawinski.</string>
+	<key>CFBundleLongVersionString</key>
+	<string>JigglyPuff 5.14, © 2011 Keith Macleod and Jamie Zawinski.</string>
+	<key>CFBundleGetInfoString</key>
+	<string>JigglyPuff 5.14, © 2003-2011 Keith Macleod and Jamie Zawinski.
+From the XScreenSaver collection:
+http://www.jwz.org/xscreensaver/
+
+This does bad things with quasi-spherical objects.
+
+You have a tetrahedron with tesselated faces.  The vertices on these faces have forces on them: one proportional to the distance from the surface of a sphere; and one proportional to the distance from the neighbors.  They also have inertia.  The resulting effect can range from a shape that does nothing, to a frenetic polygon storm. Somewhere in between there it usually manifests as a blob that jiggles in a kind of disturbing manner.</string>
+</dict>
+</plist>

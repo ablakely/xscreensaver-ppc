@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>10J869</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>LCDscrub</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.jwz.xscreensaver.LCDscrub</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>LCDscrub</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.14</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>5.14</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>10M2518</string>
+	<key>DTPlatformVersion</key>
+	<string>PG</string>
+	<key>DTSDKBuild</key>
+	<string>8S2167</string>
+	<key>DTSDKName</key>
+	<string>macosx10.4</string>
+	<key>DTXcode</key>
+	<string>0400</string>
+	<key>DTXcodeBuild</key>
+	<string>10M2518</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.4</string>
+	<key>NSMainNibFile</key>
+	<string>SaverTester</string>
+	<key>NSPrincipalClass</key>
+	<string>XScreenSaverLCDscrubView</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>LCDscrub 5.14, © 2011 Jamie Zawinski.</string>
+	<key>CFBundleLongVersionString</key>
+	<string>LCDscrub 5.14, © 2011 Jamie Zawinski.</string>
+	<key>CFBundleGetInfoString</key>
+	<string>LCDscrub 5.14, © 2008-2011 Jamie Zawinski.
+From the XScreenSaver collection:
+http://www.jwz.org/xscreensaver/
+
+This screen saver is not meant to look pretty, but rather, to repair burn-in on LCD monitors.
+
+Believe it or not, screen burn is not a thing of the past. It can happen to LCD screens pretty easily, even in this modern age. However, leaving the screen on and displaying high contrast images can often repair the damage.  That's what this screen saver does.
+
+See also:
+http://docs.info.apple.com/article.html?artnum=88343
+http://toastycode.com/blog/2008/02/05/lcd-scrub/
+
+Inspired by the like-named program by Daniel Sandler.</string>
+</dict>
+</plist>

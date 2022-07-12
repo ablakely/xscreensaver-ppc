@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>10J869</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Sierpinski</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.jwz.xscreensaver.Sierpinski</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Sierpinski</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.14</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>5.14</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>10M2518</string>
+	<key>DTPlatformVersion</key>
+	<string>PG</string>
+	<key>DTSDKBuild</key>
+	<string>8S2167</string>
+	<key>DTSDKName</key>
+	<string>macosx10.4</string>
+	<key>DTXcode</key>
+	<string>0400</string>
+	<key>DTXcodeBuild</key>
+	<string>10M2518</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.4</string>
+	<key>NSMainNibFile</key>
+	<string>SaverTester</string>
+	<key>NSPrincipalClass</key>
+	<string>XScreenSaverSierpinskiView</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Sierpinski 5.14, © 2011 Desmond Daignault and Jamie Zawinski.</string>
+	<key>CFBundleLongVersionString</key>
+	<string>Sierpinski 5.14, © 2011 Desmond Daignault and Jamie Zawinski.</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Sierpinski 5.14, © 1997-2011 Desmond Daignault and Jamie Zawinski.
+From the XScreenSaver collection:
+http://www.jwz.org/xscreensaver/
+
+This draws the two-dimensional variant of the recursive Sierpinski triangle fractal.  See also the "Sierpinski3D" screen saver.</string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>DaliClock</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Dali Clock 2.35, © 1991-2010 Jamie Zawinski.
+http://www.jwz.org/xdaliclock/
+</string>
+	<key>CFBundleIconFile</key>
+	<string>daliclock</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.jwz.DaliClockSaver</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleLongVersionString</key>
+	<string>Dali Clock 2.35, © 1991-2010 Jamie Zawinski.</string>
+	<key>CFBundleName</key>
+	<string>DaliClock</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.35</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>2.35</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.4</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Dali Clock 2.35, © 1991-2010 Jamie Zawinski.</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>DaliClockSaverView</string>
+</dict>
+</plist>

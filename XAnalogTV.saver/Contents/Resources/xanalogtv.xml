@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<screensaver name="xanalogtv" _label="XAnalogTV">
+
+  <command arg="-root"/>
+
+  <xscreensaver-image />
+
+  <boolean id="showfps" _label="Show frame rate" arg-set="-fps"/>
+
+  <_description>XAnalogTV, version 5.14.
+
+XAnalogTV shows a detailed simulation of an old TV set showing various
+test patterns, with various picture artifacts like snow, bloom,
+distortion, ghosting, and hash noise. It also simulates the TV warming
+up. It will cycle through 12 channels, some with images you give it,
+and some with color bars or nothing but static.
+
+From the XScreenSaver collection: http://www.jwz.org/xscreensaver/
+Copyright © 2003-2011 by Trevor Blackwell and Jamie Zawinski.
+</_description>
+</screensaver>

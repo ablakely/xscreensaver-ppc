@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>10J869</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>MemScroller</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.jwz.xscreensaver.MemScroller</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MemScroller</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.14</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>5.14</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>10M2518</string>
+	<key>DTPlatformVersion</key>
+	<string>PG</string>
+	<key>DTSDKBuild</key>
+	<string>8S2167</string>
+	<key>DTSDKName</key>
+	<string>macosx10.4</string>
+	<key>DTXcode</key>
+	<string>0400</string>
+	<key>DTXcodeBuild</key>
+	<string>10M2518</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.4</string>
+	<key>NSMainNibFile</key>
+	<string>SaverTester</string>
+	<key>NSPrincipalClass</key>
+	<string>XScreenSaverMemScrollerView</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>MemScroller 5.14, © 2011 Jamie Zawinski.</string>
+	<key>CFBundleLongVersionString</key>
+	<string>MemScroller 5.14, © 2011 Jamie Zawinski.</string>
+	<key>CFBundleGetInfoString</key>
+	<string>MemScroller 5.14, © 2004-2011 Jamie Zawinski.
+From the XScreenSaver collection:
+http://www.jwz.org/xscreensaver/
+
+This draws a dump of its own process memory scrolling across the screen in three windows at three different rates.</string>
+</dict>
+</plist>

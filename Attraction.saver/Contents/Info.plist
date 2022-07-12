@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>10J869</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Attraction</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.jwz.xscreensaver.Attraction</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Attraction</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.14</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>5.14</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>10M2518</string>
+	<key>DTPlatformVersion</key>
+	<string>PG</string>
+	<key>DTSDKBuild</key>
+	<string>8S2167</string>
+	<key>DTSDKName</key>
+	<string>macosx10.4</string>
+	<key>DTXcode</key>
+	<string>0400</string>
+	<key>DTXcodeBuild</key>
+	<string>10M2518</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.4</string>
+	<key>NSMainNibFile</key>
+	<string>SaverTester</string>
+	<key>NSPrincipalClass</key>
+	<string>XScreenSaverAttractionView</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Attraction 5.14, © 2011 Jamie Zawinski and John Pezaris.</string>
+	<key>CFBundleLongVersionString</key>
+	<string>Attraction 5.14, © 2011 Jamie Zawinski and John Pezaris.</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Attraction 5.14, © 1992-2011 Jamie Zawinski and John Pezaris.
+From the XScreenSaver collection:
+http://www.jwz.org/xscreensaver/
+
+Uses a simple simple motion model to generate many different display modes.  The control points attract each other up to a certain distance, and then begin to repel each other.  The attraction/repulsion is proportional to the distance between any two particles, similar to the strong and weak nuclear forces.</string>
+</dict>
+</plist>

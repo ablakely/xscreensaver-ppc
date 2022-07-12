@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>10J869</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>StonerView</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.jwz.xscreensaver.StonerView</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>StonerView</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.14</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>5.14</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>10M2518</string>
+	<key>DTPlatformVersion</key>
+	<string>PG</string>
+	<key>DTSDKBuild</key>
+	<string>8S2167</string>
+	<key>DTSDKName</key>
+	<string>macosx10.4</string>
+	<key>DTXcode</key>
+	<string>0400</string>
+	<key>DTXcodeBuild</key>
+	<string>10M2518</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.4</string>
+	<key>NSMainNibFile</key>
+	<string>SaverTester</string>
+	<key>NSPrincipalClass</key>
+	<string>XScreenSaverStonerViewView</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>StonerView 5.14, © 2011 Andrew Plotkin and Jamie Zawinski.</string>
+	<key>CFBundleLongVersionString</key>
+	<string>StonerView 5.14, © 2011 Andrew Plotkin and Jamie Zawinski.</string>
+	<key>CFBundleGetInfoString</key>
+	<string>StonerView 5.14, © 2001-2011 Andrew Plotkin and Jamie Zawinski.
+From the XScreenSaver collection:
+http://www.jwz.org/xscreensaver/
+
+Chains of colorful squares dance around each other in complex spiral patterns.  Inspired by David Tristram's `electropaint' screen saver, originally written for SGI computers in the late 1980s or early 1990s.</string>
+</dict>
+</plist>

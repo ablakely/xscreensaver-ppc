@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<screensaver name="sierpinski3d" _label="Sierpinski3D">
+
+  <command arg="-root"/>
+
+  <number id="delay" type="slider" arg="-delay %"
+          _label="Frame rate" _low-label="Low" _high-label="High"
+          low="0" high="100000" default="20000"
+          convert="invert"/>
+
+  <number id="descent" type="slider" arg="-speed %"
+          _label="Duration" _low-label="Short" _high-label="Long"
+          low="2" high="500" default="150"
+          convert="invert"/>
+
+  <number id="depth" type="spinbutton" arg="-depth %"
+          _label="Max depth" low="1" high="6" default="5"/>
+
+  <boolean id="wire"    _label="Wireframe"              arg-set="-wireframe"/>
+  <boolean id="showfps" _label="Show frame rate" arg-set="-fps"/>
+
+  <_description>Sierpinski3D, version 5.14.
+
+This draws the Sierpinski tetrahedron fractal, the three-dimensional
+variant of the recursive Sierpinski triangle.
+
+http://en.wikipedia.org/wiki/Sierpinski_triangle#Analogs_in_higher_dimension
+
+From the XScreenSaver collection: http://www.jwz.org/xscreensaver/
+Copyright © 1999-2011 by Jamie Zawinski and Tim Robinson.
+</_description>
+</screensaver>

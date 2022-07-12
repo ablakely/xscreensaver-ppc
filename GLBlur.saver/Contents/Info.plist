@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>10J869</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>GLBlur</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.jwz.xscreensaver.GLBlur</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>GLBlur</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.14</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>5.14</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>10M2518</string>
+	<key>DTPlatformVersion</key>
+	<string>PG</string>
+	<key>DTSDKBuild</key>
+	<string>8S2167</string>
+	<key>DTSDKName</key>
+	<string>macosx10.4</string>
+	<key>DTXcode</key>
+	<string>0400</string>
+	<key>DTXcodeBuild</key>
+	<string>10M2518</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.4</string>
+	<key>NSMainNibFile</key>
+	<string>SaverTester</string>
+	<key>NSPrincipalClass</key>
+	<string>XScreenSaverGLBlurView</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>GLBlur 5.14, © 2011 Jamie Zawinski.</string>
+	<key>CFBundleLongVersionString</key>
+	<string>GLBlur 5.14, © 2011 Jamie Zawinski.</string>
+	<key>CFBundleGetInfoString</key>
+	<string>GLBlur 5.14, © 2002-2011 Jamie Zawinski.
+From the XScreenSaver collection:
+http://www.jwz.org/xscreensaver/
+
+This draws a box and a few line segments, and generates a radial blur outward from it.  This creates flowing field effects.
+
+This is done by rendering the scene into a small texture, then repeatedly rendering increasingly-enlarged and increasingly-transparent versions of that texture onto the frame buffer.  As such, it's quite GPU-intensive: if you don't have a very good graphics card, it will hurt your machine bad.</string>
+</dict>
+</plist>
